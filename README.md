@@ -1,3 +1,5 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChaeSeoyoung&show_icons=true&theme=tokyonight)2 3![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeSeoyoung&layout=compact&theme=tokyonight)
+
 # Hello 👋 I'm Seoyoung Chae
 
 AI Engineer and Computer Vision Researcher passionate about building AI systems that solve real-world problems.
